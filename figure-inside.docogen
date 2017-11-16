@@ -9,8 +9,9 @@
                     "type": "figure",
                     "data": [
                         {
-                            "path": "/home/kevin/workspace/test/images/ToolBuddy-logo.png",
+                            "path": "../images/ToolBuddy-logo.png",
                             "align": "center",
+			    "flag": "rel",
                             "size": "0.5",
                             "caption": "ToolBuddy logo"
                         }
